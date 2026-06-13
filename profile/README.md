@@ -82,6 +82,29 @@ If you are passionate about **technology, data, AI, digital transformation, or c
 
 ---
 
+## 💖 Sponsorship & Donation
+
+Your support fuels the next generation of AI-enabled scientists, engineers, and community leaders. Sponsorships and donations directly power our internship program, AI training initiatives, open-source projects, and community technology programs.
+
+**Ways to get involved:**
+
+- 🤝 **Become a Sponsor** — partner with us on programs, events, and initiatives
+- 🎓 **Support an Intern** — fund a student in the CABS Data Science Summer Internship Program
+- 💻 **Back Open Source** — help sustain our community-driven technology projects
+- 💝 **Make a Donation** — contribute to the long-term digital future of CABS
+
+**Get in touch:**
+
+| Purpose | Email |
+|---|---|
+| 💖 Sponsorship & Donations | [fundraising@cabsweb.org](mailto:fundraising@cabsweb.org) |
+| 💻 IT & Technology | [it@cabsweb.org](mailto:it@cabsweb.org) |
+| 🎓 Internship Program | [internship@cabsweb.org](mailto:internship@cabsweb.org) |
+
+> Every contribution — large or small — helps us build a more connected, data-driven, and AI-enabled community.
+
+---
+
 ## 👥 Contributors
 
 | Contributor | Role |
